@@ -119,7 +119,7 @@ node exercicios/exercicio10.js
 
 Desenvolvido por **Lucas Arend Maciel**
 
-📧 [Entre em contato comigo no GitHub](https://github.com/SEU_USUARIO)
+📧 [Entre em contato comigo no GitHub](https://github.com/LucasArend)
 
 ---
 
