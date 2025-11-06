@@ -38,7 +38,7 @@ Antes de executar o projeto, você precisa ter instalado:
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/projeto-exercicios-js.git
+   git clone https://github.com/LucasArend/TarefaBonus.git
    ```
 
 2. **Entre na pasta do projeto:**
@@ -119,7 +119,7 @@ node exercicios/exercicio10.js
 
 Desenvolvido por **Lucas Arend Maciel**
 
-📧 [Entre em contato comigo no GitHub](https://github.com/SEU_USUARIO)
+📧 [Entre em contato comigo no GitHub](https://github.com/LucasArend)
 
 ---
 
